@@ -1,4 +1,4 @@
-# LLM-finetune-8GB
+# LLM-finetune-8GB(GPU)
 Instruction fine tuning on 8GB of GPU - Tinyllama
 Prompt tuning of mistral 7b , llama3b - seperate notebboks
 
