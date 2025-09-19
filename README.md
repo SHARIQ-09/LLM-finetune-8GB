@@ -5,7 +5,7 @@ Prompt tuning of mistral 7b , llama3b - seperate notebboks
 # Instruction Fine-Tuning on 8GB GPU
 
 🚀 This repository demonstrates how to run **instruction fine-tuning** of a Large Language Model (LLM) on a **single 8GB GPU**.  
-🚀 This repository demonstrates how to run **prompt fine-tuning** of a Large Language Model (LLM) - Mistrab 7B , LLama 3B on a **single 8GB GPU**
+🚀 This repository demonstrates how to run **prompt fine-tuning** of a Large Language Model (LLM) - Mistral 7B , LLama 3B on a **single 8GB GPU**
 Most people assume you need 24–80GB cards for this task — this repo proves otherwise, with smart memory optimization techniques.  
 
 ---
